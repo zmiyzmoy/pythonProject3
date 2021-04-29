@@ -7,3 +7,7 @@ song = AudioSegment.from_wav('eldar.wav')
 first_3_seconds = song[:three_seconds]
 
 first_3_seconds.export('R:/pfile.wav', format='wav')
+
+ldklfkd
+kfıldskflıkdslıf
+fdsıkflıdskflıkdsf
